@@ -1,2 +1,0 @@
-# ZerodhaRe
-IB Project
